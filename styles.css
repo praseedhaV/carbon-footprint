@@ -2,10 +2,36 @@ body{
   display:flex;
   align-items: center;
   flex-direction:column;
-  background-color:#CDBFEA;
 }
 .buttonsdiv1{
   display: flex;
-  align-items: center;
+align-items: center;
   flex-direction: column;
+  margin: 0px;
+}
+#header1{
+  color:rgb(237,71,52);
+}
+
+#header2{
+  color:rgb(245,177,147);
+}
+.inputer{
+  width: 200px;
+  radius: 10px;
+}
+
+.enter{
+  width: 100px;
+  radius:25px;
+  background-color:rgb(30,68,71);
+  color:white;
+}
+
+#header3{
+  color:rgb(30,68,71);
+}
+
+#header4{
+  color: rgb(79,112,117);
 }
